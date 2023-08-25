@@ -5,3 +5,6 @@ stack.yaml
 cabal.project.local
 .ghci
 public/
+.direnv
+.pre-commit-config.yaml
+result*
